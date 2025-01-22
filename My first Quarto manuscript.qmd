@@ -27,8 +27,7 @@ The `echo: false` option disables the printing of code (only output is displayed
 
 ## Einleitung
 
-Zur Jahreswende dürfte die weltweite Produktion weiterhin in etwa so
-schnell wie in der Dekade vor der Pandemie expandieren. Die Konjunktur im Euroraum ist nur verhalten, und die Stagnation der deutschen Wirtschaft setzt sich fort. Die Industrie verliert an internationaler Wettbewerbsfähigkeit. Unternehmen und Verbraucher halten sich aufgrund unklarer wirtschaftspolitischer Aussichten mit ihren Ausgaben zurück. Das Bruttoinlandsprodukt dürfte im Jahr 2024 um 0,2% sinken und im Jahr 2025 um 0,4% expandieren.
+Zur Jahreswende dürfte die weltweite Produktion weiterhin in etwa so schnell wie in der Dekade vor der Pandemie expandieren. Die Konjunktur im Euroraum ist nur verhalten, und die Stagnation der deutschen Wirtschaft setzt sich fort. Die Industrie verliert an internationaler Wettbewerbsfähigkeit. Unternehmen und Verbraucher halten sich aufgrund unklarer wirtschaftspolitischer Aussichten mit ihren Ausgaben zurück. Das Bruttoinlandsprodukt dürfte im Jahr 2024 um 0,2% sinken und im Jahr 2025 um 0,4% expandieren.
 
 ## Methoden
 
