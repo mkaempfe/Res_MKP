@@ -1,0 +1,48 @@
+---
+title: "My first Quarto manuscript"
+format: html
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
+
+## Einleitung
+
+Zur Jahreswende dürfte die weltweite Produktion weiterhin in etwa so schnell wie in der Dekade vor der Pandemie expandieren. Die Konjunktur im Euroraum ist nur verhalten, und die Stagnation der deutschen Wirtschaft setzt sich fort. Die Industrie verliert an internationaler Wettbewerbsfähigkeit. Unternehmen und Verbraucher halten sich aufgrund unklarer wirtschaftspolitischer Aussichten mit ihren Ausgaben zurück. Das Bruttoinlandsprodukt dürfte im Jahr 2024 um 0,2% sinken und im Jahr 2025 um 0,4% expandieren.
+
+## Methoden
+
+Formeln
+
+## Ergebnisse
+
+Plot, Tabelle
+
+![](images/clipboard-1390758437.png)
+
+## Diskussion
+
+## Quellen
+
+Konjunktur aktuell, 4/2024; Frostige Aussichten für die deutsche Wirtschaft
+
+https://doi.org/10.18717/ka5skq-pa74
